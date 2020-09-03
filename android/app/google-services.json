@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752521192483",
+    "firebase_url": "https://fir-app-7e2eb.firebaseio.com",
+    "project_id": "fir-app-7e2eb",
+    "storage_bucket": "fir-app-7e2eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752521192483:android:c370f64eaef94301c3fd96",
+        "android_client_info": {
+          "package_name": "com.example.waxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752521192483-n7555nn398v1mlak8pd3mroitp3unovc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVZ2Fz_P1r8-oYWSn_Mc0UHKVQdkr-_a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752521192483-n7555nn398v1mlak8pd3mroitp3unovc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
